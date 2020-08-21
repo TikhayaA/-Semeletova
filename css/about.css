@@ -1,0 +1,46 @@
+.about-block {
+  max-width: 1200px;
+  width: calc(100% - 230px);
+  margin: 92px auto 216px;
+}
+.about-block .page-title {
+  font-family: "Cormorant SC";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px;
+  line-height: 41px;
+  text-transform: uppercase;
+  color: #161616;
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+.about-block .page-subtitle {
+  font-family: "Cormorant SC";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+  letter-spacing: 0.2px;
+  text-transform: uppercase;
+  color: #161616;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.about-block p {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: 1.5px;
+  color: #000000;
+}
+.about-block p a {
+  text-decoration: none;
+  color: #D8C798;
+}
+.about-block .about-image img {
+  width: 100%;
+}
+
+/*# sourceMappingURL=about.css.map */

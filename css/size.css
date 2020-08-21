@@ -1,0 +1,60 @@
+.size-block {
+  max-width: 1200px;
+  width: calc(100% - 230px);
+  margin: 92px auto 216px;
+}
+.size-block .page-title {
+  font-family: "Cormorant SC";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px;
+  line-height: 41px;
+  text-transform: uppercase;
+  color: #161616;
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
+.size-block .page-subtitle {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: 3.55px;
+  color: #161616;
+  margin-top: 40px;
+  display: inline-block;
+}
+.size-block table {
+  border-collapse: collapse;
+}
+.size-block table th {
+  width: 203px;
+  height: 53px;
+  line-height: 53px;
+  border: 1px solid #CACCCF;
+  text-align: center;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 19px;
+  letter-spacing: 3.55px;
+  color: #161616;
+  padding: 7px 13px;
+}
+.size-block table td {
+  width: 203px;
+  height: 53px;
+  line-height: 53px;
+  border: 1px solid #CACCCF;
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  letter-spacing: 3.55px;
+  color: #161616;
+  padding: 7px 13px;
+}
+
+/*# sourceMappingURL=size.css.map */

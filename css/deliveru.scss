@@ -1,0 +1,47 @@
+.delivery-block {
+    max-width: 1200px;
+    width: calc(100% - 230px);
+    margin: 92px auto 216px;
+    .page-title {
+        font-family: 'Cormorant SC';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 34px;
+        line-height: 41px;
+        text-transform: uppercase;
+        color: #161616;
+        margin-top: 80px;
+    }
+    .page-subtitle {
+        margin-top: 50px;
+        margin-bottom: 30px;
+        font-family: 'Cormorant SC';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 24px;
+        line-height: 29px;
+        letter-spacing: 0.2px;
+        text-transform: uppercase;
+        color: #161616;
+    }
+    p {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 19px;
+        letter-spacing: 2.5px;
+        color: #000000;
+    }
+    .sub-title {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 19px;
+        letter-spacing: 3.55px;
+        text-transform: uppercase;
+        color: #000000;
+        margin-bottom: 20px;
+    }
+}

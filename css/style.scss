@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    a {
+        text-decoration: none;
+    }
+    li {
+        list-style-type: none;
+    }
+    .bread-crumbs {
+        ul {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            li {
+                a {
+                    font-family: 'Manrope';
+                    font-style: normal;
+                    font-weight: 300;
+                    font-size: 14px;
+                    line-height: 19px;
+                    letter-spacing: 3.55px;
+                    color: #CACCCF;
+                }
+                &:after {
+                    content: ' / ';
+                }
+                &:last-child {
+                    color: #9C7F34;
+                    margin-left: 10px;
+                    &:after {
+                        content: none;
+                    }
+                }
+            }
+        }
+    }
+}

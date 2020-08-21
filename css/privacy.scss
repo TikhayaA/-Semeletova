@@ -1,0 +1,41 @@
+.privacy-block {
+    max-width: 1200px;
+    width: calc(100% - 230px);
+    margin: 92px auto 216px;
+    .page-title {
+        font-family: 'Cormorant SC';
+        font-style: normal;
+        font-weight: normal;
+        font-size: 34px;
+        line-height: 41px;
+        text-transform: uppercase;
+        color: #161616;
+        margin-top: 80px;
+        margin-bottom: 50px;
+    }
+    .page-subtitle {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 19px;
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+        color: #000000;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    p {
+        font-family: 'Manrope';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 19px;
+        letter-spacing: 1.5px;
+        color: #000000;
+        a {
+            text-decoration: underline;
+            color: #D8C798;
+        }
+    }
+}
